@@ -18,6 +18,7 @@ const (
 	InvalidClientId       = "invalid client id"
 	InvalidExpirationTime = "invalid expiration time"
 	InvalidRestClient     = "invalid rest client response"
+	InvalidGrantType      = "invalid grant type"
 	ErrorUnmarshalUser    = "error when trying to unmarshal users response"
 )
 
